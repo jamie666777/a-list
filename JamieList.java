@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class JamieList<T>
 {
     private ArrayList<T> list;
